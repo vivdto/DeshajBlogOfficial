@@ -4,4 +4,7 @@
     height: 50px;
     background-color: #ff0000;
 
+    position: sticky;
+    top: 0;
+
 }
